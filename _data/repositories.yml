@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - avi-gulati
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - avi-gulati/cache-simulator
+  - avi-gulati/Karmarkar-Karp-Algorithm
+  - avi-gulati/assembler
+  - avi-gulati/cpu-datapath
+  - avi-gulati/Matrix-Computation
