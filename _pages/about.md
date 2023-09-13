@@ -22,6 +22,6 @@ I am a senior pursuing a double major in Computer Science and Economics. I am cu
 
 My computer science coursework includes preparation in machine learning, systems programming, hardware, signal processing, and algorithms. I have served as the Head Teaching Fellow for my department's introductory discrete mathematics course. My economics coursework includes urban economics with Ed Glaeser, deep-learning methods in data retrieval, and international trade. For two years, I was a teaching fellow for the department's intermediate macroeconomics course. 
 
-Outside of the classroom, I am a co-chair of my [dormitory](https://dunster.harvard.edu/people/avi-gulati). I am also a mentor ("Peer Advising Fellow") to first-year students, as they navigate their transition to college. These roles reflect my enthusiasm for actively engaging in and contributing to my campus community.  
+Outside of the classroom, I am a co-chair of one of Harvard's 12 upperclassmen [houses](https://dunster.harvard.edu/people/avi-gulati). I am also a mentor ("Peer Advising Fellow") to first-year students, as they navigate their transition to college. These roles reflect my enthusiasm for actively engaging in and contributing to my campus community.  
 
 Thanks for visiting my website. Please feel free to shoot me an email or a LinkedIn message if you are hiring. 
