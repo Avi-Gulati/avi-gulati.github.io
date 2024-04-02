@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior pursuing a double major in Computer Science and Economics. 
+I am a senior finishing up a double major in Computer Science and Economics. 
 
 My computer science coursework includes preparation in machine learning, systems programming, hardware, signal processing, and algorithms. I have served as the Head Teaching Fellow for my department's introductory discrete mathematics course. My economics coursework includes urban economics, deep-learning methods in data retrieval, and international trade. For two years, I was a teaching fellow for the department's intermediate macroeconomics course. 
 
